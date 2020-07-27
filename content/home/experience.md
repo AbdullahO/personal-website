@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "MIT SPPIN"
+  company = "Laboratory for Information and Decision Systems (LIDS) at MIT"
   company_url = ""
   location = "Cambridge, MA"
   date_start = "2019-05-01"
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Specialist"
-  company = "King Abulaziz City for Science and Technology"
+  company = "King Abulaziz City for Science and Technology (KACST)"
   company_url = ""
   location = "Riyadh, Saudi Arabia"
   date_start = "2016-10-01"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 
   [[experience]]
   title = "Research Intern"
-  company = "King Abdullah University for Science and Technology"
+  company = "King Abdullah University for Science and Technology (KAUST)"
   company_url = ""
   location = "Thuwal, Saudi Arabia"
   date_start = "2015-06-01"
