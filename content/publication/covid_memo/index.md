@@ -25,7 +25,6 @@ publication_types: ["4"]
 publication: "Arxiv"
 #publication_short: "ArXiv"
 
-abstract:''
 
 # Summary. An optional shortened abstract.
 summary: Memo, 2020
