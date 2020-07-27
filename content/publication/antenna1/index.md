@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: "7th International Symposium on Antenna Technology and Applied Electromagnetics (ANTEM)"
 publication_short: "ANTEM"
 
-abstract:''
+abstract: ...
 
 # Summary. An optional shortened abstract.
 summary: ANTEM, 2016
