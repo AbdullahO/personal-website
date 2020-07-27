@@ -6,7 +6,6 @@ authors:
 - Abdullah Alomar
 - Devavrat Shah
 author_notes:
-- "Alphabetical Order"
 date: "2020-01-01T00:00:00Z"
 doi: ""
 
