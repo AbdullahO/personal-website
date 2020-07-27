@@ -1,5 +1,5 @@
 ---
-title: Impact of Mobility Restricting Interventions on Covid-19: synthetic intervention
+title: Impact of Mobility Restricting Interventions on Covid-19 using Synthetic Intervention
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
