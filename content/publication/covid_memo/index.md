@@ -13,7 +13,7 @@ date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ summary: Memo, 2020
 
 # links:
 # - name: ""
-# url: "http://news.mit.edu/2020/data-driven-response-pandemic-0515"
+url: "http://news.mit.edu/2020/data-driven-response-pandemic-0515"
 url_pdf: 'https://arxiv.org/pdf/2005.00072'
 # url_code: ''
 # url_dataset: ''
