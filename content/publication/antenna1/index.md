@@ -33,7 +33,7 @@ summary: ANTEM, 2016
 
 # links:
 # - name: ""
-url: "https://ieeexplore.ieee.org/abstract/document/7550139"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/7550139"
 # url_pdf: 'https://arxiv.org/pdf/2006.07691'
 # url_code: ''
 # url_dataset: ''
