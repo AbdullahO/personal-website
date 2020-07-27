@@ -34,7 +34,7 @@ summary: Memo, 2020
 
 # links:
 # - name: ""
-url: "https://news.mit.edu/2020/data-driven-response-pandemic-0515"
+url_project: "https://news.mit.edu/2020/data-driven-response-pandemic-0515"
 url_pdf: 'https://arxiv.org/pdf/2005.00072'
 # url_code: ''
 # url_dataset: ''
