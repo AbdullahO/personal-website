@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Riyadh, Saudi Arabia"
   date_start = "2016-10-01"
-  date_end = "2018-6-01"
+  date_end = "2018-06-01"
   description = """
   """
 
