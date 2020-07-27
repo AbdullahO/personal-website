@@ -7,8 +7,7 @@ authors:
 - Romain Cosson
 - Devavrat Shah
 - Dennis Shen
-author_notes:
-- "Alphabetical Order"
+
 date: "2020-05-01T00:00:00Z"
 doi: ""
 
