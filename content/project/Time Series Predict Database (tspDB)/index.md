@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Time Series Prediction Database (tspDB)
+summary: Enabling predictive query functionalities in PostgreSQL by building an additional “prediction index” for a collection of time-series of interest.
 tags:
-- Deep Learning
+- Time Series Analysis
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

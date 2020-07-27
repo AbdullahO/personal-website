@@ -2,7 +2,7 @@
 title:  Mobility vs. Covid-19,   and Synthetic Interventions. 
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Causal Inference
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
