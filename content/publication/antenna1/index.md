@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: "7th International Symposium on Antenna Technology and Applied Electromagnetics (ANTEM)"
 publication_short: "ANTEM"
 
-#abstract:
+abstract:''
 
 # Summary. An optional shortened abstract.
 summary: ANTEM, 2016
@@ -33,7 +33,7 @@ summary: ANTEM, 2016
 
 # links:
 # - name: ""
-#   url: "https://ieeexplore.ieee.org/abstract/document/7550139"
+url: "https://ieeexplore.ieee.org/abstract/document/7550139"
 # url_pdf: 'https://arxiv.org/pdf/2006.07691'
 # url_code: ''
 # url_dataset: ''
