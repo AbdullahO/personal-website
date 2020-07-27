@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a dual M.Sc. student in both Electrical Engineering and Computer Science and Computational Science and Engineering at MIT. I'm affiliated with the Laboratory for Information and Decision Systems (LIDS) and Institute for Data, Systems, and Society (IDSS). I am fortunate to be advised by Prof. [Devavrat Shah](https://devavrat.mit.edu).
+I am a M.Sc. student in both  Electrical Engineering and Computer Science, and Computational Science and Engineering at MIT (dual degree). I'm affiliated with the Laboratory for Information and Decision Systems (LIDS) and Institute for Data, Systems, and Society (IDSS). I am fortunate to be advised by Prof. [Devavrat Shah](https://devavrat.mit.edu).
 
 
