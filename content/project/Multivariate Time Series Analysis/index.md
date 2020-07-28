@@ -40,3 +40,4 @@ In this project, we make three technical contributions. First, we establish that
 
 ## Resources:
 - On Multivariate singular spectrum analysis [paper](/publication/mssa)
+- Python implementation of our varaint of mSSA [repository](https://github.com/AbdullahO/mSSA)
