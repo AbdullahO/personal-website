@@ -3,7 +3,7 @@ title: Time Series Prediction Database (tspDB)
 summary: Enabling predictive query functionalities in PostgreSQL by building an additional “prediction index” for time-series data.
 tags:
 - Time Series Analysis
-date: "2020-01-27T00:00:00Z"
+date: "2019-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
