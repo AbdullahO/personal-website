@@ -21,7 +21,7 @@ organizations:
 bio:
 
 interests:
-- Statistical Inference in High-dimensional Setting.
+- Statistical Inference in High-dimensional Settings.
 - Time Series Analysis.
 - Machine Learning.
 
