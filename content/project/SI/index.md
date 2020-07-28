@@ -3,7 +3,7 @@ title:  Mobility vs. Covid-19.
 summary: Evaluating Impact of mobility-restricting policies on Covid-19 deaths using Synthetic Interventions.
 tags:
 - Causal Inference
-date: "2016-04-27T00:00:00Z"
+date: "2020-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

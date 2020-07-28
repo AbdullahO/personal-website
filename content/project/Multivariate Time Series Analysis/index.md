@@ -3,7 +3,7 @@ title: Multivariate Time Series Analysis
 summary: Theoritical and empirical analysis of Multivariate Singular Spectrum Analysis (mSSA).
 tags:
 - Time Series Analysis
-date: "2016-04-27T00:00:00Z"
+date: "2019-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
