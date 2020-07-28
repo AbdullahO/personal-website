@@ -44,5 +44,5 @@ In this project, we introduce synthetic interventions (SI), which helps resolve 
 ![mSSA vs SOTA](US.png)
 
 ## Resources:
-- Synthetic Interventions [paper](/publication/SI)
-- A data-driven response to a pandemic [MIT news article](https://news.mit.edu/2020/data-driven-response-pandemic-0515)
+- Synthetic Interventions [paper](/publication/SI).
+- A data-driven response to a pandemic [MIT news article](https://news.mit.edu/2020/data-driven-response-pandemic-0515).

@@ -39,5 +39,5 @@ In this project, we make three technical contributions. First, we establish that
 ![mSSA vs SOTA](elec_f_sigma.png)
 
 ## Resources:
-- On Multivariate singular spectrum analysis [paper](/publication/mssa)
-- Python implementation of our varaint of mSSA [repository](https://github.com/AbdullahO/mSSA)
+- On Multivariate singular spectrum analysis [paper](/publication/mssa).
+- Python implementation of our varaint of mSSA [repository](https://github.com/AbdullahO/mSSA).
