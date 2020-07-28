@@ -31,4 +31,4 @@ In this project, we introduce synthetic interventions (SI), which helps resolve 
 
 ## Resources:
 - Synthetic Interventions [paper](/publication/SI)
-- MIT news article (https://news.mit.edu/2020/data-driven-response-pandemic-0515)
+- A data-driven response to a pandemic [MIT news article](https://news.mit.edu/2020/data-driven-response-pandemic-0515)
