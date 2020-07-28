@@ -52,7 +52,8 @@ url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/v
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['SI']
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
