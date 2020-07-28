@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Specialist"
-  company = "King Abulaziz City for Science and Technology (KACST)"
+  company = "King Abdulaziz City for Science and Technology (KACST)"
   company_url = ""
   location = "Riyadh, Saudi Arabia"
   date_start = "2016-10-01"
