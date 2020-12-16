@@ -35,7 +35,7 @@ summary: Under Submission, 2020
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2006.07691'
+url_pdf: 'https://arxiv.org/pdf/2006.07691v1'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
