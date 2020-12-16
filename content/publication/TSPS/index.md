@@ -40,7 +40,7 @@ url_pdf: 'https://arxiv.org/pdf/1903.07097'
 url_project: 'https://tspdb.mit.edu'
 #url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/view?usp=sharing'
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6o0uitufjol0ioh%2FtspDB.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGrT7hLoDfqDu01sx6xKzjhDwHDOg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
