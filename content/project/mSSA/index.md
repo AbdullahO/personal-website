@@ -39,6 +39,6 @@ In this project, we make three technical contributions. First, we establish that
 ![mSSA vs SOTA](elec_f_sigma.png)
 
 ## Resources:
-- On Multivariate singular spectrum analysis [paper](/publication/mssa).
-- Change Point Detection via Multivariate Singular Spectrum Analysis [paper](/publication/cpd).
+- On Multivariate singular spectrum analysis (SIGMETRICS 2022)[paper](/publication/mssa).
+- Change Point Detection via Multivariate Singular Spectrum Analysis (NeurIPS 2021) [paper](/publication/cpd).
 - Python implementation of our varaint of mSSA [repository](https://github.com/AbdullahO/mSSA).
