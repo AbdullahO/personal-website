@@ -25,7 +25,7 @@ publication: "NeurIPS 2020 Competition and Demonstration Track"
 #abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: Under Submission, 2020
+# summary: 
 # tags:
 # - Source Themes
 # featured: false
