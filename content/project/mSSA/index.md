@@ -32,7 +32,7 @@ slides: example
 
 <p>
 <div style="text-align: justify">
-In this project, we make three technical contributions. First, we establish that the "stacked" Page Matrix time series representation, the core data structure in mSSA (see figure above), has an approximate low-rank structure for a large class of time series models used in practice under the spatio-temporal factor model. Second, we extend the theory of online convex optimization to address the variant when the constraints are time-varying. Third, we extend the analysis prediction error analysis of Principle Component Regression beyond recent work to when the covariate matrix is approximately low-rank.
+In this project, we make three technical contributions. First, we establish that the "stacked" Page Matrix time series representation, the core data structure in mSSA (see figure above), has an approximate low-rank structure for a large class of time series models used in practice under the spatio-temporal factor model. Second, we  establish finite-sample bounds for the  in-sample prediction error for both imputation and forecasting. Third, we furnish an algorithm for change point detection that is motivated by this model, and we theortically analyse the trade-offs between false-alarm rate and detection delay.
  </div>
 </p>
 
@@ -40,4 +40,5 @@ In this project, we make three technical contributions. First, we establish that
 
 ## Resources:
 - On Multivariate singular spectrum analysis [paper](/publication/mssa).
+- Change Point Detection via Multivariate Singular Spectrum Analysis [paper](/publication/cpd).
 - Python implementation of our varaint of mSSA [repository](https://github.com/AbdullahO/mSSA).

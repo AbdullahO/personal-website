@@ -41,5 +41,5 @@ In a recent paper, we rigorously test TSPS's statistical and computational perfo
 
 
 ## Resources:
-- TSPS: A Real-Time Time Series Prediction System [paper](/publication/tsps).
+- tspDB: Time Series Prediction Database [paper](/publication/tspDB).
 - tspDB: Time Series Prediction Database [open source implementaion](https://tspdb.mit.edu).
