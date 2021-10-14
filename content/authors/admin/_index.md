@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:aalomar@mit.edu".
+  link: "mailto:aalomar@mit.edu"  # For a direct email link, use "mailto:aalomar@mit.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aoalomar_
