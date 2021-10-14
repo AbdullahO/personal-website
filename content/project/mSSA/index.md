@@ -1,5 +1,5 @@
 ---
-title: Multivariate Time Series Analysis  
+title: Multivariate Singular Spectrum Analysis  
 summary: Theoritical and empirical analysis of Multivariate Singular Spectrum Analysis (mSSA).
 tags:
 - Time Series Analysis
