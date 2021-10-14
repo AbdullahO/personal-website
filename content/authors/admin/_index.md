@@ -21,16 +21,19 @@ organizations:
 bio:
 
 interests:
-- Statistical Inference in High-dimensional Settings.
 - Time Series Analysis.
-- Machine Learning.
+- Reinforcement Learning.
+- High-dimensional Statstics.
 
 education:
   courses:
-  - course: M.Sc. in Electrical Engineering and Computer Science (expected)
+  - course: Ph.D. in Electrical Engineering and Computer Science (expected)
+    institution: Massachusetts Institute of Technology
+    year: 2024
+  - course: M.Sc. in Electrical Engineering and Computer Science 
     institution: Massachusetts Institute of Technology
     year: 2021
-  - course: M.Sc. in Computational Science and Engineering (expected)
+  - course: M.Sc. in Computational Science and Engineering 
     institution: Massachusetts Institute of Technology
     year: 2021
   - course: B.Sc. in Electrical Engineering
@@ -73,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am an M.Sc. student in both  Electrical Engineering and Computer Science, and Computational Science and Engineering at MIT (dual degree). I'm affiliated with the Laboratory for Information and Decision Systems (LIDS) and Institute for Data, Systems, and Society (IDSS). I am fortunate to be advised by Professor [Devavrat Shah](https://devavrat.mit.edu).
+I am a Ph.D. student in Electrical Engineering and Computer Science at MIT. I'm affiliated with the Laboratory for Information and Decision Systems (LIDS) and Institute for Data, Systems, and Society (IDSS). I am fortunate to be advised by Professor [Devavrat Shah](https://devavrat.mit.edu).
 
 
