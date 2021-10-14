@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   description = """
   """
 
+  [[experience]]
+  title = "Senior Data Scientist Intern"
+  company = "IBM"
+  company_url = ""
+  location = "Remote"
+  date_start = "2021-06-01"
+  date_end = "2021-09-01"
+  description = """
+  """
+
 [[experience]]
   title = "Research Specialist"
   company = "King Abdulaziz City for Science and Technology (KACST)"
