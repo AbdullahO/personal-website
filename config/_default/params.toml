@@ -93,14 +93,14 @@ email = "aalomar@mit.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "40 Ames st.", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
+address = {street = "32 Vassar st.", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.3617", longitude = "-71.0875"}
+coordinates = {latitude = "42.36151", longitude = "-71.0909"}
 
 # Directions for visitors to locate you.
-directions = "E18-440A"
+directions = "32-666"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
