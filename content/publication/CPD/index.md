@@ -33,7 +33,7 @@ summary: NeurIPS 2021
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'https://arxiv.org/abs/2102.06961'
+url_pdf: 'https://openreview.net/forum?id=i0DmV60aeK'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
