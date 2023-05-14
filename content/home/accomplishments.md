@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "6.231: Dynamic Programming and Reinforcement Learning"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2022-01-01"
   date_end = ""
   description = ""
 
