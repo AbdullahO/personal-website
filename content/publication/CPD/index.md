@@ -28,7 +28,7 @@ publication: "NeurIPS 2021"
 summary: NeurIPS 2021
 # tags:
 # - Source Themes
-# featured: false
+featured: true
 
 # links:
 # - name: ""

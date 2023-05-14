@@ -28,7 +28,7 @@ publication_short: "SIGMETRICS 2022"
 summary: SIGMETRICS, 2022
 # tags:
 # - Source Themes
-# featured: false
+featured: true
 
 # links:
 # - name: ""
