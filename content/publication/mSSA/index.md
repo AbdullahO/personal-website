@@ -38,7 +38,7 @@ url_pdf: https://arxiv.org/pdf/2006.13448
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://www.dropbox.com/s/3g92fzczud9aibf/sigmetrics_mSSA.pdf?dl=0'
 # url_source: ''
 # url_video: ''
 

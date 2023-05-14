@@ -39,7 +39,7 @@ url_pdf: 'https://openreview.net/forum?id=i0DmV60aeK'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://www.dropbox.com/s/vydn1krjowmap69/CPD_Neurips%20_Edited.pdf?dl=0'
 # url_source: ''
 # url_video: ''
 

@@ -41,7 +41,7 @@ url_pdf: 'https://openreview.net/forum?id=v2w7CVZGHeA'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://www.dropbox.com/s/6d6d20a3bc505a5/PerSim_pdf.pdf?dl=0'
 # url_source: ''
 # url_video: ''
 
