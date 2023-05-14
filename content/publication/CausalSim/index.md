@@ -30,7 +30,7 @@ publication: "NSDI 23"
 summary: NSDI 2023 
 # tags:
 # - Source Themes
-# featured: true
+featured: true
 
 # links:
 # - name: ""
