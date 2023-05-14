@@ -38,7 +38,7 @@ url_pdf: 'http://proceedings.mlr.press/v133/agarwal21a/agarwal21a.pdf'
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://tspdb.mit.edu'
-url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/view?usp=sharing'
+# url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/view?usp=sharing'
 # url_source: ''
 url_video: 'https://www.dropbox.com/s/9zc2lpej20bj9j2/tspDB.mp4?dl=0'
 
@@ -50,6 +50,7 @@ url_video: 'https://www.dropbox.com/s/9zc2lpej20bj9j2/tspDB.mp4?dl=0'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
