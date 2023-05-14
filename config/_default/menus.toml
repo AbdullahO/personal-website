@@ -19,6 +19,11 @@
   url = "#experience"
   weight = 40
 
+  [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 40
+
 [[main]]
   name = "Contact"
   url = "#contact"
