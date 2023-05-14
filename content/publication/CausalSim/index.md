@@ -27,14 +27,14 @@ publication: "NSDI 23"
 # abstract: We present CausalSim, a causal framework for unbiased trace-driven simulation. Current trace-driven simulators assume that the interventions being simulated (eg, a new algorithm) would not affect the validity of the traces. However, real-world traces are often biased by the choices algorithms make during trace collection, and hence replaying traces under an intervention may lead to incorrect results. CausalSim addresses this challenge by learning a causal model of the system dynamics and latent factors capturing the underlying system conditions during trace collection. It learns these models using an initial randomized control trial (RCT) under a fixed set of algorithms, and then applies them to remove biases from trace data when simulating new algorithms.
 
 # Summary. An optional shortened abstract.
-summary: NSDI 2023 
+summary: NSDI 2023 (Best Paper Award) 
 # tags:
 # - Source Themes
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
+- name: "Press"
+  url: "https://news.mit.edu/2023/researchers-create-tool-accurately-simulating-complex-systems-0504"
 url_pdf: 'https://www.usenix.org/system/files/nsdi23-alomar.pdf'
 # url_code: ''
 # url_dataset: ''
