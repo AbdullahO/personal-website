@@ -50,7 +50,7 @@ url_video: 'https://www.dropbox.com/s/9zc2lpej20bj9j2/tspDB.mp4?dl=0'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['tspDB']
+<!-- projects: ['tspDB'] -->
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
