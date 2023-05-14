@@ -38,9 +38,9 @@ url_pdf: 'http://proceedings.mlr.press/v133/agarwal21a/agarwal21a.pdf'
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://tspdb.mit.edu'
-#url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/view?usp=sharing'
+url_slides: 'https://drive.google.com/file/d/1wlbfLZBYi-hljjLsEcK0_9NzpWhSipUh/view?usp=sharing'
 # url_source: ''
-url_video: 'https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6o0uitufjol0ioh%2FtspDB.mp4%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGrT7hLoDfqDu01sx6xKzjhDwHDOg'
+url_video: 'https://www.dropbox.com/s/9zc2lpej20bj9j2/tspDB.mp4?dl=0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
