@@ -40,7 +40,7 @@ url_pdf: 'https://www.usenix.org/system/files/nsdi23-alomar.pdf'
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://causalsim.csail.mit.edu'
-# url_slides: ''
+url_slides: 'https://causalsim.csail.mit.edu/content/CausalSim_NSDI.pptx'
 # url_source: ''
 # url_video: ''
 
