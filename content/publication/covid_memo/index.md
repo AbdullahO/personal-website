@@ -52,7 +52,7 @@ url_pdf: 'https://arxiv.org/pdf/2005.00072'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['SI']
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
