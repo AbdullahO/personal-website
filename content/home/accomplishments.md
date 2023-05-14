@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "MIT"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "6.231: Dynamic Programming and Reinforcement Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
