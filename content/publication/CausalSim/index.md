@@ -6,7 +6,7 @@ authors:
 - Pouya Hamadanian
 - Arash Nasr-Esfahany
 - Anish Agarwal
-- Mohammad Alizadeh,
+- Mohammad Alizadeh
 - Devavrat Shah
 
 date: "2023-04-01T00:00:00Z"
