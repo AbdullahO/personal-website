@@ -23,7 +23,7 @@ bio:
 interests:
 - Time Series Analysis.
 - Reinforcement Learning.
-- High-dimensional Statstics.
+- High-dimensional Statistics.
 
 education:
   courses:
