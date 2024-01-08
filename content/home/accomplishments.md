@@ -28,4 +28,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "MIT"
+  organization_url = ""
+  title = "6.7810: Algorithms For Inference"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-09-01"
+  date_end = "2024-01-15"
+  description = """
+
 +++
