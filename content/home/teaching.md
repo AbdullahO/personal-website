@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   """
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Teaching Assistant2"
   company = "6.7810: Algorithms For Inference"
   company_url = ""
   location = ""
