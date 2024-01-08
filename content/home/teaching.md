@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = "2021-06-01"
   description = """
   """
+  
 [[experience]]
   title = "Teaching Assistant2"
   company = "6.7810: Algorithms For Inference"
