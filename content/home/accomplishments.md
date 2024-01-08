@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2023-09-01"
   date_end = "2024-01-15"
-  description = """
+  description = ""
 
 +++
