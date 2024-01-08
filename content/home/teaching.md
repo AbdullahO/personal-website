@@ -27,5 +27,14 @@ date_format = "Jan 2006"
   description = """
 
   """
+[[experience]]
+  title = "Teaching Assistant"
+  company = "6.7810: Algorithms For Inference"
+  company_url = ""
+  location = ""
+  date_start = "2023-09-01"
+  date_end = "2024-01-15"
+  description = """
+  """
 
 +++
